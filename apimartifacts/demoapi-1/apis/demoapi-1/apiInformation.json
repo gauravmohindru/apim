@@ -1,0 +1,19 @@
+{
+  "properties": {
+    "path": "demoapi1",
+    "apiRevision": "1",
+    "authenticationSettings": {},
+    "description": "",
+    "isCurrent": true,
+    "displayName": "DemoApi-1",
+    "protocols": [
+      "https"
+    ],
+    "serviceUrl": "https://dev-apim-eus-1.azure-api.net/demoapi1",
+    "subscriptionKeyParameterNames": {
+      "header": "Ocp-Apim-Subscription-Key",
+      "query": "subscription-key"
+    },
+    "subscriptionRequired": true
+  }
+}
