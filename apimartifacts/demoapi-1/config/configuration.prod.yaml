@@ -1,0 +1,6 @@
+apimServiceName: dev-apim-eus-1
+namedValues:
+  - name: demoapi-namedvalue
+    properties:
+      displayName: demoapi-namedvalue
+      value: "proddemoapi1"
