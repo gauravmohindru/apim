@@ -1,4 +1,4 @@
-apimServiceName: dev-apim-eus-1
+apimServiceName: dev-apim-eus
 namedValues:
   - name: demoapi-namedvalue
     properties:
